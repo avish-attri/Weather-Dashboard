@@ -27,22 +27,19 @@ The **Weather Dashboard** tracks real-time weather conditions across multiple ci
 - **Power BI Desktop**
 - **OpenWeatherMap API** (for real-time weather data)
 - **Power Query & DAX** for data manipulation and calculations
-- **Excel** (used temporarily to handle and store API pulls)
 
 ---
 
 ## 🖼️ Dashboard Preview
 
-> *(Include a screenshot image named `dashboard-preview.png` in your repo folder)*
-
-![Weather Dashboard](dashboard-preview.png)
+![Weather Dashboard](Dashboard-Screenshot.png)
 
 ---
 
 ## 📁 Files Included
 
 - `WeatherDashboard.pbix` – Power BI project file  
-- `dashboard-preview.png` – Dashboard visual  
+- `Dashboard-Screenshot.png` – Dashboard visual  
 - `README.md` – Project documentation
 
 ---
@@ -56,22 +53,11 @@ The **Weather Dashboard** tracks real-time weather conditions across multiple ci
 
 ---
 
-## 🚀 How to Use
+## 🔗 Project Link
 
-1. Clone or download this repo.
-2. Open `WeatherDashboard.pbix` in Power BI Desktop.
-3. Replace API keys or endpoints if needed.
-4. Customize visuals or data as per your city preferences.
+View the full project:  
+**[https://app.powerbi.com/view]([https://github.com/your-username/weather-dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDVjMzViMDQtZmMxYi00NjJhLTkxNTEtYTViYTBhODRhMTJiIiwidCI6ImI1OGFjNjEwLTFhNzEtNDE4MC1iNjJkLTQxMTYwZTM4MDdiZSIsImMiOjN9))**
 
 ---
 
-## 🙌 Let's Connect
-
-If you liked this project or want to collaborate:
-
-📧 [Your Email]  
-🔗 [LinkedIn Profile]  
-💼 [Portfolio or Website link]
-
----
 
