@@ -1,6 +1,6 @@
 # Weather-Dashboard
 
-# 🌦️ Weather Dashboard – Power BI Project
+# 🌦️ Live Interactive Weather Dashboard – Power BI Project
 
 This project showcases an interactive **Weather Dashboard** built using **Power BI**, leveraging real-time data from the **OpenWeatherMap API**. The dashboard is designed to present city-wise weather insights in a clean and informative layout.
 
@@ -14,7 +14,7 @@ The **Weather Dashboard** tracks real-time weather conditions across multiple ci
 
 ## 🔍 Key Features
 
-- 🌡️ **Current Temperature, Min & Max Temperature**
+- 🌡️ **Current Temperature**
 - 💧 **Humidity & Wind Speed KPIs**
 - 📈 **Time-Series Graphs** for daily trends
 - 🗂️ **Interactive Filters** for city selection
