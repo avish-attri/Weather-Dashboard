@@ -56,7 +56,7 @@ The **Weather Dashboard** tracks real-time weather conditions across multiple ci
 ## 🔗 Project Link
 
 View the full project:  
-[https://app.powerbi.com/view](https://app.powerbi.com/view?r=eyJrIjoiZDY1NjRmOGYtMzM1My00YzVlLWJiMmUtNDA3ZDhlY2JjOGZhIiwidCI6ImI1OGFjNjEwLTFhNzEtNDE4MC1iNjJkLTQxMTYwZTM4MDdiZSIsImMiOjN9)
+[https://app.powerbi.com/view](https://app.powerbi.com/view?r=eyJrIjoiYmM0NDcwNjgtNTJmMS00MWEyLTkxMjEtYzBiZWZhODdiYTBjIiwidCI6ImI1OGFjNjEwLTFhNzEtNDE4MC1iNjJkLTQxMTYwZTM4MDdiZSIsImMiOjN9)
 
 ---
 
