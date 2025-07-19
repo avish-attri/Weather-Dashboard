@@ -12,6 +12,14 @@ The **Weather Dashboard** tracks real-time weather conditions across multiple ci
 
 ---
 
+## 🔗 Project Link
+
+View the full project:  
+[https://app.powerbi.com/view](https://app.powerbi.com/view?r=eyJrIjoiYmM0NDcwNjgtNTJmMS00MWEyLTkxMjEtYzBiZWZhODdiYTBjIiwidCI6ImI1OGFjNjEwLTFhNzEtNDE4MC1iNjJkLTQxMTYwZTM4MDdiZSIsImMiOjN9)
+
+---
+
+
 ## 🔍 Key Features
 
 - 🌡️ **Current Temperature**
@@ -53,11 +61,5 @@ The **Weather Dashboard** tracks real-time weather conditions across multiple ci
 
 ---
 
-## 🔗 Project Link
-
-View the full project:  
-[https://app.powerbi.com/view](https://app.powerbi.com/view?r=eyJrIjoiYmM0NDcwNjgtNTJmMS00MWEyLTkxMjEtYzBiZWZhODdiYTBjIiwidCI6ImI1OGFjNjEwLTFhNzEtNDE4MC1iNjJkLTQxMTYwZTM4MDdiZSIsImMiOjN9)
-
----
 
 
